@@ -1,19 +1,50 @@
-.html{
-    border-radius: 5px;
-    width: 500px;
-    height: 325px;
+.container{
+  
+    text-align: center;
+  
 }
-.java{
-    border-radius: 5px;
+
+.image{
+
+    display: inline-block;
+    border-radius: 7px;
     width: 500px;
-    height: 325px;
+    height: 250px;
 }
-.css{
-    border-radius: 5px;
-    width: 500px;
-    height: 325px;
-}
-.p{
-    font-size: 25px;
+
+.a{
+
+    text-align: center;
 
 }
+
+.p{
+    
+    font-size: 21px;
+
+}
+
+td{
+    
+    color: white;
+    text-align: center;   
+    border: rgb(46, 117,90) 2px solid;
+    margin-top: 100px;
+
+}
+th{
+
+    color: white;
+    text-align: center;   
+    margin-top: 100px;
+
+}
+
+
+table{
+     margin-left: 37.5%;
+     font-size: 35px;
+     padding-top: 100px;
+
+
+} 
