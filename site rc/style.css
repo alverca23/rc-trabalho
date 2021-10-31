@@ -1,0 +1,73 @@
+.container{
+  
+    text-align: center;
+  
+}
+
+.image{
+
+    display: inline-block;
+    border-radius: 7px;
+    width: 500px;
+    height: 250px;
+}
+
+.a{
+
+    text-align: center;
+
+}
+
+.p{
+    
+    font-size: 21px;
+
+}
+
+td{
+    
+    color: white;
+    text-align: center;   
+    border: rgb(46, 117,90) 2px solid;
+    margin-top: 100px;
+
+}
+th{
+
+    color: white;
+    text-align: center;   
+    margin-top: 100px;
+
+}
+
+
+table{
+     margin-left: 37.5%;
+     font-size: 35px;
+     padding-top: 100px;
+
+
+} 
+
+
+.TEXT{
+    font-size: 17px;
+    
+}
+
+
+.button{
+    padding: 5px 15px;
+    margin-top: 10px;
+    background-color: black;
+    border: none;
+    outline: none;
+    color: #fff;
+    font-size: 10px;
+    font-weight: 700;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: 0.3s;
+}
+
+
