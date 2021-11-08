@@ -41,12 +41,11 @@ th{
 }
 
 
-table{
-     margin-left: 37.5%;
+.table{
      font-size: 35px;
      padding-top: 100px;
-
-
+     width: 300px;
+     margin: auto;
 } 
 
 
@@ -69,5 +68,4 @@ table{
     text-transform: uppercase;
     transition: 0.3s;
 }
-
 
