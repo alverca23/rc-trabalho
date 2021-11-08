@@ -69,3 +69,28 @@ th{
     transition: 0.3s;
 }
 
+
+.navbar{
+    position: absolute;
+    right: 0;
+    background-color: transparent;
+    padding: 27px 0;
+    top: 0;
+    z-index: 100;
+    line-height: 20px;
+  }
+
+
+
+.navbar-menu a{
+    font-size: 22px;
+    font-weight: 500;
+    font-family: 'Raleway',sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-left: 5px;
+    margin-right: 30px;
+    display: inline-block;
+    color: #fff;
+  }
+
