@@ -83,7 +83,8 @@ th{
 
 
 .navbar-menu a{
-    font-size: 22px;
+    text-decoration: none;
+    font-size: 21px;
     font-weight: 500;
     font-family: 'Raleway',sans-serif;
     text-transform: uppercase;
@@ -93,4 +94,22 @@ th{
     display: inline-block;
     color: #fff;
   }
+
+
+.navbar-menu a::after{
+    content: '';
+    display: block;
+    width: 0;
+    height: 1.8px;
+    background-color: #fff;
+    transition: width .3s;
+  }  
+
+
+.navbar-menu a:hover::after{
+    width: 100%;
+  }  
+  
+
+
 
