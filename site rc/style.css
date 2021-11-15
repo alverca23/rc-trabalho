@@ -106,9 +106,14 @@ th{
   }  
 
 
-.navbar-menu a:hover::after{
+.navbar-menu a[id="about"]:hover::after{
     width: 100%;
   }  
+
+  .navbar-menu a[id="home"]:after{
+    width: 100%;
+  }  
+
   
 
 
