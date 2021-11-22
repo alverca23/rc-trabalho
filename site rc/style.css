@@ -58,10 +58,10 @@ th{
 .button{
     padding: 5px 15px;
     margin-top: 10px;
-    background-color: black;
+    background-color:salmon;
     border: none;
     outline: none;
-    color: #fff;
+    color:white;
     font-size: 10px;
     font-weight: 700;
     cursor: pointer;
@@ -113,6 +113,23 @@ th{
   .navbar-menu a[id="home"]:after{
     width: 100%;
   }  
+
+  .cor1{
+      background-color: rgb(41,56,73);
+  }
+
+  .cor2{
+      background-color: #000;
+  }
+
+  .address{
+      color: salmon;
+  }
+  .settings{
+      position: absolute;
+      margin-top: -27px;
+      margin-left: -35px;
+  }
 
   
 
